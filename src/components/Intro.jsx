@@ -11,7 +11,7 @@ function Intro() {
     <>
       <div className="relative w-full h-screen flex items-center justify-center text-white">
         <video
-          src="/videos/Wolf Man.mp4"
+          src="/videos/intro.mp4"
           autoPlay
           loop
           muted
