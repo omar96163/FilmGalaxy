@@ -37,7 +37,7 @@ function Footer() {
           <a
             className="border-[2px] rounded-full text-center px-3 py-2 hover:text-blue-700 hover:bg-white hover:border-blue-700
             duration-1000 font-semibold hover:[animation-play-state:paused] animate-[bounce_1.2s_ease-in-out_infinite]"
-            href="www.linkedin.com/in/omar-albaz-29b72b272"
+            href="https://www.linkedin.com/in/omar-albaz-29b72b272/"
             target="_blank"
             rel="noopener noreferrer"
           >

@@ -11,7 +11,7 @@ function Intro() {
     <>
       <div className="relative w-full h-screen flex items-center justify-center text-white">
         <video
-          src="/videos/intro.mp4"
+          src="https://drive.google.com/file/d/1mI13XdlU49cmwvCVMomE5oPPqHXHNBR7/view"
           autoPlay
           loop
           muted
